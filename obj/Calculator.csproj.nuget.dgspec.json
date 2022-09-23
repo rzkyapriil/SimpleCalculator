@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rzkag\\Downloads\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\rzkag\\Documents\\GitHub\\SimpleCalculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rzkag\\Downloads\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\rzkag\\Documents\\GitHub\\SimpleCalculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rzkag\\Downloads\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\rzkag\\Documents\\GitHub\\SimpleCalculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\rzkag\\Downloads\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\rzkag\\Documents\\GitHub\\SimpleCalculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\rzkag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rzkag\\Downloads\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\rzkag\\Documents\\GitHub\\SimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rzkag\\AppData\\Roaming\\NuGet\\NuGet.Config"

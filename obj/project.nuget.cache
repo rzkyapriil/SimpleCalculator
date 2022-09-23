@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqNPIeZW26pKJN8kktV2iBlaQ4Y/jVHOPgc/43s6jo1DjIlW14BFLFUKsgUGWh8fNnv/jCAre4T3iC4JVOUVYA==",
+  "dgSpecHash": "U4XrQHQ8lmZBqadojTki73hEfec2ZjllbTe1aWKJqdjN7TAuUDUulf0K0Fxwlfa1jPaVXvYkJsenIAal/0MO6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rzkag\\Downloads\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\rzkag\\Documents\\GitHub\\SimpleCalculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
